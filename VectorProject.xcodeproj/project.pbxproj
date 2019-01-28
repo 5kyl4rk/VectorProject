@@ -60,7 +60,6 @@
 		A6E16EA621FF9A000070F74A /* VectorProject */ = {
 			isa = PBXGroup;
 			children = (
-				A6E16EB521FF9B5A0070F74A /* Model */,
 				A6E16EAF21FF9A420070F74A /* Runner */,
 				A6E16EAE21FF9A360070F74A /* Controller */,
 			);
@@ -82,13 +81,6 @@
 				A6E16EB021FF9A600070F74A /* Runner.cpp */,
 			);
 			path = Runner;
-			sourceTree = "<group>";
-		};
-		A6E16EB521FF9B5A0070F74A /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
